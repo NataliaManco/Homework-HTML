@@ -1,0 +1,19 @@
+.ContenedorPadre div {
+    background-color: blue;
+    width: 100px;
+    border: 2px solid rgb(133, 208, 13);
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+
+}
+
+.ContenedorPadre { 
+    display: flex;
+    background-color: brown;
+    padding: 20PX;
+    border: 2px solid black;
+
+    
+}
